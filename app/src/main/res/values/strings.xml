@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ThreadAsyncTask</string>
+    <string name="sample_string">sample string</string>
 </resources>
